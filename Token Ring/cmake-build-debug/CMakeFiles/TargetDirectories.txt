@@ -1,3 +1,0 @@
-/Users/pulnara/Documents/Rozprochy/pulnar_agnieszka_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/pulnara/Documents/Rozprochy/pulnar_agnieszka_1/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/pulnara/Documents/Rozprochy/pulnar_agnieszka_1/cmake-build-debug/CMakeFiles/pulnar_agnieszka_1.dir
