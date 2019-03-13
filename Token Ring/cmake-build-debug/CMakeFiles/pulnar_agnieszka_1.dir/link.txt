@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.14.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/pulnar_agnieszka_1.dir/client.c.o CMakeFiles/pulnar_agnieszka_1.dir/tcp_client.c.o CMakeFiles/pulnar_agnieszka_1.dir/udp_client.c.o  -o pulnar_agnieszka_1 

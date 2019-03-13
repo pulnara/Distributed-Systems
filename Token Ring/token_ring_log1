@@ -1,0 +1,775 @@
+2019-03-13 22:05:00.618748 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:01.621602 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:02.626180 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:03.626823 C1 :: Dostalem wiadomosc od C4 do unknown o tresci '127.0.0.1:10009:C4' - typ 1
+2019-03-13 22:05:04.630216 C1 :: Dostalem wiadomosc od 127.0.0.1:9009 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-13 22:05:05.631680 C1 :: Dostalem wiadomosc od C2 do unknown o tresci '127.0.0.1:9010:C2' - typ 1
+2019-03-13 22:05:05.632457 C4 :: Dostalem wiadomosc od C1 do C4 o tresci 'Witam w ringu' - typ 5
+2019-03-13 22:05:07.641406 C4 :: Dostalem wiadomosc od 127.0.0.1:9009 do none o tresci '127.0.0.1:9010:C2' - typ 2
+2019-03-13 22:05:08.498378 C1 :: Dostalem wiadomosc od C3 do unknown o tresci '127.0.0.1:10010:C3' - typ 1
+2019-03-13 22:05:08.645116 C2 :: Dostalem wiadomosc od C4 do C2 o tresci 'Witam w ringu' - typ 5
+2019-03-13 22:05:10.651377 C4 :: Dostalem wiadomosc od 127.0.0.1:9009 do none o tresci '127.0.0.1:10010:C3' - typ 2
+2019-03-13 22:05:11.656889 C2 :: Dostalem wiadomosc od 127.0.0.1:9009 do none o tresci '127.0.0.1:10010:C3' - typ 2
+2019-03-13 22:05:12.657579 C3 :: Dostalem wiadomosc od C2 do C3 o tresci 'Witam w ringu' - typ 5
+2019-03-13 22:05:13.662547 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:14.668054 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:15.670330 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:16.672867 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:17.677081 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:18.677704 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:19.679737 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:20.683574 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:21.688304 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:22.691900 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:23.695143 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:24.699136 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:25.699223 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:26.704941 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:27.709425 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:28.713775 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:29.714358 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:30.714907 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:31.718936 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:32.722590 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:33.726625 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:34.727237 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:35.728958 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:36.729209 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:37.729605 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:38.735314 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:39.738967 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:40.744508 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:41.745383 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:42.746244 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:43.746564 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:44.752045 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:45.757307 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:51.807601 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:52.810630 C2 :: Dostalem wiadomosc od C4 do C1 o tresci 'Hi from C4 - 0' - typ 4
+2019-03-13 22:05:53.813670 C3 :: Dostalem wiadomosc od C4 do C1 o tresci 'Hi from C4 - 0' - typ 4
+2019-03-13 22:05:54.819127 C1 :: Dostalem wiadomosc od C4 do C1 o tresci 'Hi from C4 - 0' - typ 4
+2019-03-13 22:05:55.824483 C4 :: Dostalem wiadomosc od C1 do C4 o tresci 'Potwierdzam, ze dostalem wiadomosc, dzieki' - typ 5
+2019-03-13 22:05:56.825201 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:57.827491 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:58.832956 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:05:59.838177 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:06:00.843708 C2 :: Dostalem wiadomosc od C4 do  o tresci '' - typ 4
+2019-03-13 22:06:01.846333 C3 :: Dostalem wiadomosc od C4 do  o tresci '' - typ 4
+2019-03-13 22:06:02.851822 C1 :: Dostalem wiadomosc od C4 do  o tresci '' - typ 4
+2019-03-13 22:06:03.852655 C4 :: Dostalem wiadomosc od C4 do  o tresci '' - typ 4
+2019-03-13 22:06:04.858000 C2 :: Dostalem wiadomosc od C4 do  o tresci '' - typ 4
+2019-03-13 22:06:05.858965 C3 :: Dostalem wiadomosc od C4 do  o tresci '' - typ 4
+2019-03-13 22:06:06.863946 C1 :: Dostalem wiadomosc od C4 do  o tresci '' - typ 4
+2019-03-13 22:06:07.866236 C4 :: Dostalem wiadomosc od C4 do  o tresci '' - typ 4
+2019-03-13 22:06:08.872044 C2 :: Dostalem wiadomosc od C4 do  o tresci '' - typ 4
+2019-03-13 22:06:09.877561 C3 :: Dostalem wiadomosc od C4 do  o tresci '' - typ 4
+2019-03-13 22:06:10.881211 C1 :: Dostalem wiadomosc od C4 do  o tresci '' - typ 4
+2019-03-13 22:06:11.884249 C4 :: Dostalem wiadomosc od C4 do  o tresci '' - typ 4
+2019-03-13 22:06:12.886243 C2 :: Dostalem wiadomosc od C4 do  o tresci '' - typ 4
+2019-03-13 22:06:13.891164 C3 :: Dostalem wiadomosc od C4 do  o tresci '' - typ 4
+2019-03-13 22:06:14.893942 C1 :: Dostalem wiadomosc od C4 do  o tresci '' - typ 4
+-------------------------------------------------------------------------------------------------------------------------
+2019-03-13 22:17:11.820670 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:12.823699 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:13.829219 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:14.832031 C1 :: Dostalem wiadomosc od C2 do unknown o tresci '127.0.0.1:9010:C2' - typ 1
+2019-03-13 22:17:15.837186 C1 :: Dostalem wiadomosc od 127.0.0.1:9009 do none o tresci '127.0.0.1:9010:C2' - typ 2
+2019-03-13 22:17:16.842780 C1 :: Dostalem wiadomosc od C4 do unknown o tresci '127.0.0.1:10009:C4' - typ 1
+2019-03-13 22:17:16.843522 C2 :: Dostalem wiadomosc od C1 do C2 o tresci 'Witam w ringu' - typ 5
+2019-03-13 22:17:17.479857 C1 :: Dostalem wiadomosc od C3 do unknown o tresci '127.0.0.1:10010:C3' - typ 1
+2019-03-13 22:17:18.847459 C2 :: Dostalem wiadomosc od 127.0.0.1:9009 do none o tresci '127.0.0.1:10010:C3' - typ 2
+2019-03-13 22:17:19.847707 C2 :: Dostalem wiadomosc od C4 do unknown o tresci '127.0.0.1:10009:C4' - typ 1
+2019-03-13 22:17:19.848391 C3 :: Dostalem wiadomosc od C2 do C3 o tresci 'Witam w ringu' - typ 5
+2019-03-13 22:17:20.851044 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:22.859189 C3 :: Dostalem wiadomosc od 127.0.0.1:9010 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-13 22:17:23.860203 C1 :: Dostalem wiadomosc od 127.0.0.1:9010 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-13 22:17:24.864473 C4 :: Dostalem wiadomosc od C1 do C4 o tresci 'Witam w ringu' - typ 5
+2019-03-13 22:17:25.867260 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:26.871501 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:27.875582 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:28.879592 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:29.881861 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:30.883889 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:31.884985 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:32.889101 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:33.892917 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:34.896785 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:35.898836 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:36.899384 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:37.902610 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:38.907553 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:39.911686 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:40.911956 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:41.913222 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:42.915598 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:43.915666 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:44.919226 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:45.921629 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:46.924619 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:47.929797 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:48.933944 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:49.935620 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:50.938114 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:51.942619 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:52.947098 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:53.952752 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:54.958045 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:55.961768 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:56.962215 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:57.967652 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:58.972509 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:17:59.977354 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:18:00.983174 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:18:01.988630 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:18:02.993842 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:18:03.998445 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:18:05.002816 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:18:06.006114 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:18:07.010038 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:18:08.015452 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:18:09.020853 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:18:10.022701 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:18:11.024212 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:18:12.028274 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:18:13.033743 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:18:14.035423 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:18:15.037066 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:18:16.038621 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:18:17.043382 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:18:18.047950 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:18:19.048776 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:18:20.049360 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:18:21.054019 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:18:22.056889 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:18:23.060613 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+-------------------------------------------------------------------------------------------------------------------------
+2019-03-13 22:30:55.564105 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:30:56.566887 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:30:57.572181 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:30:58.577718 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:30:59.581400 C1 :: Dostalem wiadomosc od C4 do unknown o tresci '127.0.0.1:10009:C4' - typ 1
+2019-03-13 22:31:00.586782 C1 :: Dostalem wiadomosc od 127.0.0.1:9009 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-13 22:31:01.592412 C4 :: Dostalem wiadomosc od C1 do C4 o tresci 'Witam w ringu' - typ 5
+2019-03-13 22:31:01.804730 C1 :: Dostalem wiadomosc od C2 do unknown o tresci '127.0.0.1:9010:C2' - typ 1
+2019-03-13 22:31:03.599129 C4 :: Dostalem wiadomosc od 127.0.0.1:9009 do none o tresci '127.0.0.1:9010:C2' - typ 2
+2019-03-13 22:31:04.560781 C1 :: Dostalem wiadomosc od C3 do unknown o tresci '127.0.0.1:10010:C3' - typ 1
+2019-03-13 22:31:04.601938 C2 :: Dostalem wiadomosc od C4 do C2 o tresci 'Witam w ringu' - typ 5
+2019-03-13 22:31:06.608365 C4 :: Dostalem wiadomosc od 127.0.0.1:9009 do none o tresci '127.0.0.1:10010:C3' - typ 2
+2019-03-13 22:31:07.611681 C2 :: Dostalem wiadomosc od 127.0.0.1:9009 do none o tresci '127.0.0.1:10010:C3' - typ 2
+2019-03-13 22:31:08.617533 C3 :: Dostalem wiadomosc od C2 do C3 o tresci 'Witam w ringu' - typ 5
+2019-03-13 22:31:09.618193 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:10.623568 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:11.626533 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:12.627868 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:13.631919 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:14.636594 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:15.639550 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:16.640774 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:17.646204 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:18.649616 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:19.655464 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:20.660551 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:21.662298 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:22.667184 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:23.669500 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:24.673185 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:25.686281 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:26.689814 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:27.692995 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:28.697459 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:29.699845 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:30.701365 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:31.701956 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:32.703855 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:33.708150 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:34.712572 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:35.717883 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:36.723263 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:37.728806 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:38.734153 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:39.735120 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:40.740598 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:41.746020 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:42.750459 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:43.755850 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:44.761157 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:45.764843 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:46.766034 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:47.771615 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:48.774650 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:49.776031 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:50.779167 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:51.779660 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:52.780795 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:53.785615 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:54.788752 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:55.789753 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:56.790962 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:57.792970 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:58.798247 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:31:59.800884 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:32:00.806393 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:32:01.810268 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:32:02.813307 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:32:03.816688 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:32:04.822069 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:32:05.822620 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:32:06.823282 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:32:07.824374 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:32:08.825021 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:32:09.825531 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+-------------------------------------------------------------------------------------------------------------------------
+2019-03-13 22:32:56.746425 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:32:57.751094 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:32:58.754246 C1 :: Dostalem wiadomosc od C4 do unknown o tresci '127.0.0.1:10009:C4' - typ 1
+2019-03-13 22:32:59.755741 C1 :: Dostalem wiadomosc od 127.0.0.1:9009 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-13 22:33:00.757032 C1 :: Dostalem wiadomosc od C2 do unknown o tresci '127.0.0.1:9010:C2' - typ 1
+2019-03-13 22:33:00.757820 C4 :: Dostalem wiadomosc od C1 do C4 o tresci 'Witam w ringu' - typ 5
+2019-03-13 22:33:02.759699 C4 :: Dostalem wiadomosc od 127.0.0.1:9009 do none o tresci '127.0.0.1:9010:C2' - typ 2
+2019-03-13 22:33:02.760642 C1 :: Dostalem wiadomosc od C3 do unknown o tresci '127.0.0.1:10010:C3' - typ 1
+2019-03-13 22:33:03.760158 C2 :: Dostalem wiadomosc od C4 do C2 o tresci 'Witam w ringu' - typ 5
+2019-03-13 22:33:05.765397 C4 :: Dostalem wiadomosc od 127.0.0.1:9009 do none o tresci '127.0.0.1:10010:C3' - typ 2
+2019-03-13 22:33:06.770215 C2 :: Dostalem wiadomosc od 127.0.0.1:9009 do none o tresci '127.0.0.1:10010:C3' - typ 2
+2019-03-13 22:33:07.776344 C3 :: Dostalem wiadomosc od C2 do C3 o tresci 'Witam w ringu' - typ 5
+2019-03-13 22:33:08.779279 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:09.783478 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:10.788062 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:11.790623 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:12.791945 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:13.794196 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:14.799223 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:15.803489 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:16.807877 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:17.813102 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:18.816474 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:19.820333 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:20.823817 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:21.827184 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:22.831143 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:23.837623 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:24.841163 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:25.842490 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:26.885290 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:27.876355 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:28.877912 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:29.879918 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:30.881865 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:31.886619 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:32.891244 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:33.896380 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:34.900408 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:35.905505 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:36.914391 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:37.918923 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:38.920489 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:39.922601 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:40.927301 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:41.928152 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:42.931003 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:43.932760 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:44.935581 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:45.939432 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:46.941793 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:47.944583 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:48.948225 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:49.952160 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:50.955516 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:51.955828 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:52.958930 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:33:53.963656 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+-------------------------------------------------------------------------------------------------------------------------
+2019-03-13 22:34:28.758579 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:34:29.763783 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:34:30.767826 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:34:31.773030 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:34:32.774426 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:34:33.779336 C1 :: Dostalem wiadomosc od C4 do unknown o tresci '127.0.0.1:10009:C4' - typ 1
+2019-03-13 22:34:34.781893 C1 :: Dostalem wiadomosc od 127.0.0.1:9009 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-13 22:34:35.787758 C1 :: Dostalem wiadomosc od C2 do unknown o tresci '127.0.0.1:9010:C2' - typ 1
+2019-03-13 22:34:35.788454 C4 :: Dostalem wiadomosc od C1 do C4 o tresci 'Witam w ringu' - typ 5
+2019-03-13 22:34:37.793646 C4 :: Dostalem wiadomosc od 127.0.0.1:9009 do none o tresci '127.0.0.1:9010:C2' - typ 2
+2019-03-13 22:34:38.353740 C1 :: Dostalem wiadomosc od C3 do unknown o tresci '127.0.0.1:10010:C3' - typ 1
+2019-03-13 22:34:38.799122 C2 :: Dostalem wiadomosc od C4 do C2 o tresci 'Witam w ringu' - typ 5
+2019-03-13 22:34:40.807827 C4 :: Dostalem wiadomosc od 127.0.0.1:9009 do none o tresci '127.0.0.1:10010:C3' - typ 2
+2019-03-13 22:34:41.809319 C2 :: Dostalem wiadomosc od 127.0.0.1:9009 do none o tresci '127.0.0.1:10010:C3' - typ 2
+2019-03-13 22:34:42.811088 C3 :: Dostalem wiadomosc od C2 do C3 o tresci 'Witam w ringu' - typ 5
+2019-03-13 22:34:43.814941 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:34:44.819357 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:34:45.824718 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:34:46.826442 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:34:47.826834 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:34:48.830377 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:34:49.832714 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:34:50.843548 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:34:51.843610 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:34:52.846808 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:34:53.850663 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:34:54.855313 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:34:55.858557 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:34:56.860727 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:34:57.862564 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:34:58.867934 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:34:59.868659 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:00.870076 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:01.875146 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:02.880582 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:03.883964 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:04.884298 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:05.885075 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:06.888484 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:07.889909 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:08.894137 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:09.895668 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:10.895785 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+-------------------------------------------------------------------------------------------------------------------------
+2019-03-13 22:35:11.896545 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:12.898167 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:13.899166 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:14.904825 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:15.906915 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:16.908249 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:17.913715 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:18.919425 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:30.581205 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:31.586946 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:32.587772 C1 :: Dostalem wiadomosc od C3 do unknown o tresci '127.0.0.1:10010:C3' - typ 1
+2019-03-13 22:35:33.593170 C1 :: Dostalem wiadomosc od 127.0.0.1:9009 do none o tresci '127.0.0.1:10010:C3' - typ 2
+2019-03-13 22:35:34.594888 C3 :: Dostalem wiadomosc od C1 do C3 o tresci 'Witam w ringu' - typ 5
+2019-03-13 22:35:34.822778 C1 :: Dostalem wiadomosc od C4 do unknown o tresci '127.0.0.1:10009:C4' - typ 1
+2019-03-13 22:35:36.601509 C1 :: Dostalem wiadomosc od C2 do unknown o tresci '127.0.0.1:9010:C2' - typ 1
+2019-03-13 22:35:36.602271 C3 :: Dostalem wiadomosc od 127.0.0.1:9009 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-13 22:35:37.604074 C4 :: Dostalem wiadomosc od C3 do C4 o tresci 'Witam w ringu' - typ 5
+2019-03-13 22:35:39.615047 C3 :: Dostalem wiadomosc od 127.0.0.1:9009 do none o tresci '127.0.0.1:9010:C2' - typ 2
+2019-03-13 22:35:40.619456 C4 :: Dostalem wiadomosc od 127.0.0.1:9009 do none o tresci '127.0.0.1:9010:C2' - typ 2
+2019-03-13 22:35:41.620971 C2 :: Dostalem wiadomosc od C4 do C2 o tresci 'Witam w ringu' - typ 5
+2019-03-13 22:35:42.626099 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:43.627920 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:44.632817 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:45.637117 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:46.637498 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:47.637144 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:48.641148 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:49.644940 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:50.650399 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:51.655836 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:52.659465 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:53.661355 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:54.664483 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:55.667142 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:56.670470 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:57.673933 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:58.674716 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:35:59.677055 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:00.678650 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:01.679689 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:02.685230 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:03.689437 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:04.692273 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:05.695876 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:06.697813 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:07.701043 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:08.701695 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:09.706803 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:10.709130 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:11.710501 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:12.713119 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:13.717786 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:14.722686 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:15.723865 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:16.726303 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:17.730893 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:18.732694 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:19.736514 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:20.739936 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:21.741960 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:22.746145 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:23.751421 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:24.755995 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:25.759570 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:26.764479 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:27.769929 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:28.771356 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:29.776964 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:30.777921 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:31.782443 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:32.786172 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:33.790953 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:34.791494 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:35.796468 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:36.801844 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:37.806600 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:41.868126 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:42.871945 C3 :: Dostalem wiadomosc od C1 do C3 o tresci 'Hi from C1 - 0' - typ 4
+2019-03-13 22:36:43.873645 C4 :: Dostalem wiadomosc od C3 do C1 o tresci 'Potwierdzam, ze dostalem wiadomosc, dzieki' - typ 5
+2019-03-13 22:36:44.873739 C2 :: Dostalem wiadomosc od C3 do C1 o tresci 'Potwierdzam, ze dostalem wiadomosc, dzieki' - typ 5
+2019-03-13 22:36:45.875217 C1 :: Dostalem wiadomosc od C3 do C1 o tresci 'Potwierdzam, ze dostalem wiadomosc, dzieki' - typ 5
+2019-03-13 22:36:46.876677 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:47.878318 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:48.880164 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:49.881806 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:50.882547 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:51.887357 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:52.887756 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:53.893091 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:54.897118 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:55.900627 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:56.900806 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:57.902254 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:58.903626 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:36:59.905954 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:37:00.910031 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:37:01.911974 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:37:02.914578 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:37:03.919474 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:37:04.923565 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:37:05.926793 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:37:06.929577 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:37:07.930065 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:37:08.932603 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:37:09.933213 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:37:10.938883 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:37:11.943662 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:37:12.948259 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:37:13.948966 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:37:14.949249 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:37:15.949915 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:37:16.951636 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:37:17.956466 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:37:18.960631 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:37:19.961724 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:37:20.967109 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:37:21.972403 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 22:37:39.479531 C1 :: Dostalem wiadomosc od C3 do unknown o tresci '127.0.0.1:10010:C3' - typ 1
+-------------------------------------------------------------------------------------------------------------------------
+2019-03-13 23:25:58.653401 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:25:59.655228 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:00.660665 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:01.666153 C1 :: Dostalem wiadomosc od C2 do unknown o tresci '127.0.0.1:9010:C2' - typ 1
+2019-03-13 23:26:02.671566 C1 :: Dostalem wiadomosc od 127.0.0.1:9009 do none o tresci '127.0.0.1:9010:C2' - typ 2
+2019-03-13 23:26:03.676387 C2 :: Dostalem wiadomosc od C1 do C2 o tresci 'Witam w ringu' - typ 5
+2019-03-13 23:26:04.041515 C1 :: Dostalem wiadomosc od C4 do unknown o tresci '127.0.0.1:10009:C4' - typ 1
+2019-03-13 23:26:05.683229 C2 :: Dostalem wiadomosc od 127.0.0.1:9009 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-13 23:26:06.374879 C1 :: Dostalem wiadomosc od C3 do unknown o tresci '127.0.0.1:10010:C3' - typ 1
+2019-03-13 23:26:06.687437 C4 :: Dostalem wiadomosc od C2 do C4 o tresci 'Witam w ringu' - typ 5
+2019-03-13 23:26:08.694470 C2 :: Dostalem wiadomosc od 127.0.0.1:9009 do none o tresci '127.0.0.1:10010:C3' - typ 2
+2019-03-13 23:26:09.698260 C4 :: Dostalem wiadomosc od 127.0.0.1:9009 do none o tresci '127.0.0.1:10010:C3' - typ 2
+2019-03-13 23:26:10.698971 C3 :: Dostalem wiadomosc od C4 do C3 o tresci 'Witam w ringu' - typ 5
+2019-03-13 23:26:11.704171 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:12.704878 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:13.705686 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:14.710840 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:15.713666 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:16.717709 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:17.720715 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:18.724187 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:19.729621 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:20.731203 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:21.736294 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:22.737537 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:23.742898 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:24.746839 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:25.751528 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:26.753154 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:27.754381 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:28.756622 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:29.761408 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:30.765150 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:31.766573 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:32.768588 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:33.769680 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:34.775016 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:35.779392 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:36.784057 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:37.786586 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:38.786921 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:39.792581 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:40.793200 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:41.798508 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:42.799315 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:43.804690 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:44.805207 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:45.810574 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:46.811910 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:47.812322 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:48.817698 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:49.823233 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:50.828615 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:51.833948 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:52.839114 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:53.840187 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:54.844341 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:55.849642 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:56.855109 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:57.860491 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:58.862135 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:26:59.867668 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:27:00.873185 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:27:01.878627 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:27:02.879721 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:27:03.885476 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:27:04.887415 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:27:05.892828 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:27:06.896138 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:27:07.900004 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:27:08.904888 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:27:09.905571 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-13 23:27:10.910990 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+-------------------------------------------------------------------------------------------------------------------------
+2019-03-14 00:04:56.736110 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:04:57.741803 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:04:58.743811 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:04:59.749502 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:00.752249 C1 :: Dostalem wiadomosc od C4 do unknown o tresci '127.0.0.1:10009:C4' - typ 1
+2019-03-14 00:05:01.756319 C1 :: Dostalem wiadomosc od 127.0.0.1:9009 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:05:02.762358 C4 :: Dostalem wiadomosc od C1 do C4 o tresci 'Witam w ringu' - typ 5
+2019-03-14 00:05:03.669836 C1 :: Dostalem wiadomosc od C2 do unknown o tresci '127.0.0.1:9010:C2' - typ 1
+2019-03-14 00:05:04.768640 C4 :: Dostalem wiadomosc od 127.0.0.1:9009 do none o tresci '127.0.0.1:9010:C2' - typ 2
+2019-03-14 00:05:05.774701 C2 :: Dostalem wiadomosc od C4 do C2 o tresci 'Witam w ringu' - typ 5
+2019-03-14 00:05:06.514620 C1 :: Dostalem wiadomosc od C3 do unknown o tresci '127.0.0.1:10010:C3' - typ 1
+2019-03-14 00:05:07.781200 C4 :: Dostalem wiadomosc od 127.0.0.1:9009 do none o tresci '127.0.0.1:10010:C3' - typ 2
+2019-03-14 00:05:08.785427 C2 :: Dostalem wiadomosc od 127.0.0.1:9009 do none o tresci '127.0.0.1:10010:C3' - typ 2
+2019-03-14 00:05:09.791481 C3 :: Dostalem wiadomosc od C2 do C3 o tresci 'Witam w ringu' - typ 5
+2019-03-14 00:05:10.797297 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:11.798283 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:12.804042 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:13.806369 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:14.809028 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:15.813574 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:16.818918 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:17.824571 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:18.827056 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:19.831525 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:20.832849 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:21.834217 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:22.838624 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:23.840015 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:24.844721 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:25.850462 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:26.854741 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:27.860495 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:28.865363 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:29.869566 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:30.870743 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:31.874873 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:32.877200 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:33.882028 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:34.884496 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:35.888614 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:36.893591 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:45.502652 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:46.507409 C1 :: Dostalem wiadomosc od C3 do C1 o tresci 'Hi from C3 - 0' - typ 4
+2019-03-14 00:05:47.510355 C4 :: Dostalem wiadomosc od C1 do C3 o tresci 'Potwierdzam, ze dostalem wiadomosc, dzieki' - typ 5
+2019-03-14 00:05:48.515837 C2 :: Dostalem wiadomosc od C1 do C3 o tresci 'Potwierdzam, ze dostalem wiadomosc, dzieki' - typ 5
+2019-03-14 00:05:49.520010 C3 :: Dostalem wiadomosc od C1 do C3 o tresci 'Potwierdzam, ze dostalem wiadomosc, dzieki' - typ 5
+2019-03-14 00:05:50.525896 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:51.531492 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:52.534119 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:53.539799 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:54.545610 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:55.551372 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:56.552687 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:57.557639 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:58.563526 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:05:59.569259 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:00.570338 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:01.575976 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:02.581839 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:03.586048 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:04.590627 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:05.594094 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:06.599836 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:07.601915 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:08.607675 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:10.830610 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:11.833032 C1 :: Dostalem wiadomosc od C3 do C2 o tresci 'Hi from C3 - 0' - typ 4
+2019-03-14 00:06:12.838668 C4 :: Dostalem wiadomosc od C3 do C2 o tresci 'Hi from C3 - 0' - typ 4
+2019-03-14 00:06:13.844424 C2 :: Dostalem wiadomosc od C3 do C2 o tresci 'Hi from C3 - 0' - typ 4
+2019-03-14 00:06:14.850187 C3 :: Dostalem wiadomosc od C2 do C3 o tresci 'Potwierdzam, ze dostalem wiadomosc, dzieki' - typ 5
+2019-03-14 00:06:15.855973 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:16.859122 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:17.864846 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:18.865960 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:19.870975 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:20.872394 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:21.878035 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:22.883347 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:23.886123 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:24.887089 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:25.888196 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:26.893086 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:27.894296 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:28.899672 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:29.903209 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:30.909024 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:31.909752 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:32.914975 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:33.916237 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:34.921251 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:35.924207 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:36.927426 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:37.929667 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:38.933662 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:39.934000 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:40.935300 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:41.935479 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:42.936092 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:43.937685 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:44.940789 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:45.943969 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:46.944258 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:47.945509 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:48.946407 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:49.950039 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:50.954736 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:51.960607 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:52.966663 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:53.971623 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:54.973698 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:55.977379 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:56.979566 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:57.984553 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:58.987890 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:06:59.991636 C1 :: Dostalem wiadomosc od C3 do C4 o tresci 'Hi from C3 - 0' - typ 4
+2019-03-14 00:07:00.997237 C4 :: Dostalem wiadomosc od C3 do C4 o tresci 'Hi from C3 - 0' - typ 4
+2019-03-14 00:07:02.001073 C2 :: Dostalem wiadomosc od C4 do C3 o tresci 'Potwierdzam, ze dostalem wiadomosc, dzieki' - typ 5
+2019-03-14 00:07:03.003991 C3 :: Dostalem wiadomosc od C4 do C3 o tresci 'Potwierdzam, ze dostalem wiadomosc, dzieki' - typ 5
+2019-03-14 00:07:04.009866 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:05.011128 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:06.011741 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:07.014645 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:08.020266 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:09.024521 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:10.029942 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:11.035594 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:12.037058 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:13.040997 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:14.044488 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:15.046533 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:16.048296 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:17.049093 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:18.050933 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:19.052038 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:20.054543 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:21.060133 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:22.060954 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:23.061896 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:24.064473 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:25.067150 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:26.072330 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:27.073073 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:28.075362 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:29.081226 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:30.085480 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:31.088308 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:32.092580 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:33.094751 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:34.095057 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:35.099368 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:36.104058 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:37.107014 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:38.110804 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:39.113069 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:40.117499 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:41.123851 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:42.125164 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:43.129628 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:44.134846 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:45.137585 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:46.138671 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:47.144304 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:48.148388 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:49.150911 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:50.151823 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:51.156068 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:52.161212 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:53.165639 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:54.167368 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:55.171023 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:56.173905 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:57.179841 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:58.181585 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:07:59.187737 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:08:00.192429 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:08:01.193521 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:08:02.198760 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:08:03.201300 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:08:04.425154 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:08:05.427178 C4 :: Dostalem wiadomosc od C1 do C3 o tresci 'Hi from C1 - 0' - typ 4
+2019-03-14 00:08:06.432654 C2 :: Dostalem wiadomosc od C1 do C3 o tresci 'Hi from C1 - 0' - typ 4
+2019-03-14 00:08:07.436520 C3 :: Dostalem wiadomosc od C1 do C3 o tresci 'Hi from C1 - 0' - typ 4
+2019-03-14 00:08:08.441670 C1 :: Dostalem wiadomosc od C3 do C1 o tresci 'Potwierdzam, ze dostalem wiadomosc, dzieki' - typ 5
+2019-03-14 00:08:09.444524 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:08:10.445297 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:08:11.450223 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:08:12.452593 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:08:13.456297 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:08:14.462674 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:08:15.468601 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:08:16.470733 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:08:17.475904 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:08:18.477379 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:08:19.478093 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:08:20.479169 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:08:21.481777 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:08:22.487051 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:08:23.488623 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:08:24.489966 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:08:25.492850 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:08:26.493812 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:08:27.495976 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:08:28.496455 C1 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:08:29.500719 C4 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:08:30.502277 C2 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:08:31.505379 C3 :: Dostalem wiadomosc od none do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:24:30.901724 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:24:31.906038 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:24:32.906922 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:24:33.910749 C1 :: Dostalem wiadomosc od C4 do unknown o tresci '127.0.0.1:10009:C4' - typ 1
+2019-03-14 00:24:34.916313 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:24:35.922018 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:24:36.922608 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:24:37.923678 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:24:38.926528 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:24:39.929719 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:24:40.931145 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:24:41.936481 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:24:42.941320 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:24:43.945456 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:24:44.947982 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:24:45.951361 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:24:46.954087 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:24:47.958305 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:24:48.960784 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:24:49.964047 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:24:50.969705 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:24:51.973957 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:24:52.979824 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:24:53.980680 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:24:54.984196 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:24:55.984887 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:24:56.986484 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:24:57.991557 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:24:58.993992 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:24:59.997927 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:25:00.998798 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:25:01.999572 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:25:03.004588 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:25:44.704737 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:25:45.708934 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:25:46.710285 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:25:47.713487 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:25:48.718274 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:25:49.719535 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:25:50.725046 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:25:51.725699 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:25:52.728821 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:25:53.733036 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:25:54.732816 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:25:55.734119 C1 :: Dostalem wiadomosc od C1 do none o tresci 'Token Ring idle' - typ 0
+2019-03-14 00:25:56.739683 C1 :: Dostalem wiadomosc od C4 do unknown o tresci '127.0.0.1:10009:C4' - typ 1
+2019-03-14 00:25:57.743630 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:25:58.744789 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:25:59.746187 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:26:00.748330 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:26:01.749409 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2
+2019-03-14 00:26:02.749660 C1 :: Dostalem wiadomosc od C4 do none o tresci '127.0.0.1:10009:C4' - typ 2

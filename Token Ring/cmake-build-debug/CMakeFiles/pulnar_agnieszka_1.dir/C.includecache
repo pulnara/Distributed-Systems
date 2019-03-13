@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/pulnara/Documents/Rozprochy/pulnar_agnieszka_1/client.c
+arpa/inet.h
+-
+netinet/in.h
+-
+sys/socket.h
+-
+stdio.h
+-
+stdlib.h
+-
+memory.h
+-
+zconf.h
+-
+string.h
+-
+client.h
+/Users/pulnara/Documents/Rozprochy/pulnar_agnieszka_1/client.h
+tcp_client.h
+/Users/pulnara/Documents/Rozprochy/pulnar_agnieszka_1/tcp_client.h
+udp_client.h
+/Users/pulnara/Documents/Rozprochy/pulnar_agnieszka_1/udp_client.h
+
+/Users/pulnara/Documents/Rozprochy/pulnar_agnieszka_1/client.h
+
+/Users/pulnara/Documents/Rozprochy/pulnar_agnieszka_1/tcp_client.h
+client.h
+/Users/pulnara/Documents/Rozprochy/pulnar_agnieszka_1/client.h
+
+/Users/pulnara/Documents/Rozprochy/pulnar_agnieszka_1/udp_client.h
+client.h
+/Users/pulnara/Documents/Rozprochy/pulnar_agnieszka_1/client.h
+
