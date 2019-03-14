@@ -66,7 +66,6 @@ void send_token_tcp(token* msg) {
 
 token acquire_token_tcp() {
     struct sockaddr_in source_addr;
-    int source_addr_len = sizeof(source_addr);
     token token_buf;
     int reading_socket = accept(CLIENT_SOCKET, NULL, NULL);
     if (reading_socket < 0) {
@@ -74,13 +73,10 @@ token acquire_token_tcp() {
         exit(EXIT_FAILURE);
     }
 
-
     if (recvfrom(reading_socket, &token_buf, sizeof(token), 0, (struct sockaddr*) &source_addr, NULL) != sizeof(token)) {
         perror("Problem with read execution\n");
         exit(EXIT_FAILURE);
     }
-
-    getpeername(CLIENT_SOCKET, (struct sockaddr*) &source_addr, (socklen_t *) &source_addr_len);
 
     return token_buf;
 }

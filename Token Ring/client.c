@@ -71,7 +71,7 @@ void process_token(struct token received_token) {
     }
 
     if (strcmp(received_token.dest_id, my_ID) == 0) {
-        // wiadomosc jest na sto pro do mnie
+        // wiadomosc jest na 100% do mnie
         switch(received_token.type) {
             case CONFIRM:
                 // wiadomosc to potwierdzenie
@@ -82,7 +82,7 @@ void process_token(struct token received_token) {
                 strcpy(received_token.source_id, "none");
                 break;
             case DATA:
-                // wiadomosc to jakas mega wazna informacja
+                // wiadomosc to jakas bardzo wazna informacja
                 printf("Dane\n");
                 received_token.type = CONFIRM;
                 strcpy(received_token.message, "Potwierdzam, ze dostalem wiadomosc, dzieki");
@@ -90,7 +90,7 @@ void process_token(struct token received_token) {
                 strcpy(received_token.source_id, my_ID);
                 break;
             default:
-                // a to niespodzianka
+                // to niespodzianka
 //                printf("//////////////1\n");
                 break;
         }
@@ -120,7 +120,7 @@ void process_token(struct token received_token) {
                 return;
             }
             case REWIRE:
-                // przepinamy lancuch, zeby wcisnac nowego ziomka przed jego sasiada
+                // przepinamy lancuch, zeby wcisnac nowego kolege przed jego sasiada
                 printf("Przepinamy\n");
                 char buf[64];
                 sprintf(buf, "%s:%d", NEIGHBOUR_IP, NEIGHBOUR_PORT);
@@ -135,17 +135,9 @@ void process_token(struct token received_token) {
                     strcpy(received_token.source_id, my_ID);
                 }
                 break;
-//            case DISCONNECT:
-//                // ziomek chce sie odlaczyc
-//                printf("Proba odlaczenia\n");
-//                received_token.type = REWIRE;
-//                printf("elo elo odlaczenia\n");
-//                sprintf(received_token.source_id, "%s:%d", my_IP, listening_port);
-//                printf("elo elo odlaczenia\n");
-//                break;
             default:
                 // przekaz dalej
-                printf("//////////////2 - %d\n", received_token.type);
+                //printf("//////////////2 - %d\n", received_token.type);
                 break;
         }
     }
@@ -196,19 +188,6 @@ void send_multicast(char* log) {
 
 void disconnect(int signum) {
     printf("\nClient %s - disconnecting\n", my_ID);
-//    token t = acquire_token();
-//    while (t.type != EMPTY) {
-//        printf("Ojojojojooj\n");
-//        printf("%s %d %s\n\n", t.message, t.type, t.source_id);
-//        process_token(t);
-//        t = acquire_token();
-//    }
-//    t.type = DISCONNECT;
-//    sprintf(t.source_id, "%s:%d", my_IP, listening_port);
-//    strcpy(t.dest_id, "unknown");
-//    sprintf(t.message, "%s:%d", NEIGHBOUR_IP, NEIGHBOUR_PORT);
-//    send_token(&t);
-
     exit(EXIT_SUCCESS);
 }
 
